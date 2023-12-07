@@ -1,0 +1,5 @@
+# REQUIRED PACKAGES TO BE INSTALLED
+
+flask
+psycopg2-binary
+Flask-SQLAlchemy
